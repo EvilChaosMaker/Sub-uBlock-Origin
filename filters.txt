@@ -1,0 +1,40 @@
+[uBlock Origin]
+! Title: Banana Cat's uBlock Origin filters
+! Homepage: https://github.com/EvilChaosMaker/Sub-uBlock-Origin
+
+
+! -------------------------------------------------- leetcode.com --------------------------------------------------
+
+! Disable redirections and remove the visual cues.
+||leetcode.cn/api/is_china_ip/*$xhr,domain=leetcode.com
+leetcode.com##aside#region_switcher
+||assets.leetcode.cn/lccn-resources/cn.js$script
+||assets.leetcode.cn/lccn-resources/profile.svg$image,domain=leetcode.com
+
+
+
+! -------------------------------------------------- bitwarden.com -------------------------------------------------
+
+! Remove the upgrade content.
+vault.bitwarden.com##.mb-4.border-success.card
+
+
+
+! -------------------------------------------------- bilibili.com --------------------------------------------------
+
+! Remove the danmaku sending bar and the video tool bar(Like, Coins etc.)
+www.bilibili.com##.bpx-player-sending-bar
+www.bilibili.com##.video-toolbar-left-main
+www.bilibili.com##.video-toolbar-right
+
+! Remove the search pannel and the search suggest.
+live.bilibili.com##.search-pannel
+www.bilibili.com##.header-search-suggest.suggest-wrap
+
+! Remove the reply notice.
+t.bilibili.com##.reply-notice
+www.bilibili.com##.reply-notice
+
+! Remove the vote card and the tab switcher.
+www.bilibili.com##.top-vote-card
+www.bilibili.com##.rcmd-tab-switcher
