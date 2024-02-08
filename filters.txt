@@ -22,7 +22,7 @@ vault.bitwarden.com##.mb-4.border-success.card
 
 ! -------------------------------------------------- bilibili.com --------------------------------------------------
 
-! Remove the danmaku sending bar and the video tool bar(Like, Coins etc.)
+! Remove the danmaku sending bar and the video tool bar(Like, Coins etc.).
 www.bilibili.com##.bpx-player-sending-bar
 www.bilibili.com##.video-toolbar-left-main
 www.bilibili.com##.video-toolbar-right
@@ -46,3 +46,10 @@ www.bilibili.com##.rcmd-tab-switcher
 ! Remove the mozilla AI Help banner and the notice of translation.
 developer.mozilla.org##.fallback.top-banner
 developer.mozilla.org##.neutral.localized-content-note.notecard
+
+
+
+! --------------------------------------------------- exercism.org ---------------------------------------------------
+
+! Remove announcement bar.
+exercism.org##.hidden.md\:block.announcement-bar
