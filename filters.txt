@@ -38,3 +38,11 @@ www.bilibili.com##.reply-notice
 ! Remove the vote card and the tab switcher.
 www.bilibili.com##.top-vote-card
 www.bilibili.com##.rcmd-tab-switcher
+
+
+
+! ---------------------------------------------------- mozilla.org ---------------------------------------------------
+
+! Remove the mozilla AI Help banner and the notice of translation.
+developer.mozilla.org##.fallback.top-banner
+developer.mozilla.org##.neutral.localized-content-note.notecard
