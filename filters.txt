@@ -53,3 +53,11 @@ developer.mozilla.org##.neutral.localized-content-note.notecard
 
 ! Remove announcement bar.
 exercism.org##.hidden.md\:block.announcement-bar
+
+
+
+! ---------------------------------------------------- google.com ----------------------------------------------------
+
+! Remove like, dislike and feedback in search resaults.
+www.google.com##.iCQO5d.niO4u
+www.google.com##.epKdHc
