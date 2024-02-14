@@ -27,6 +27,9 @@ www.bilibili.com##.bpx-player-sending-bar
 www.bilibili.com##.video-toolbar-left-main
 www.bilibili.com##.video-toolbar-right
 
+! Remove the Like, Coins etc. button on ending card.
+www.bilibili.com##.bpx-player-ending-functions-pagecallback
+
 ! Remove the search pannel and the search suggest.
 live.bilibili.com##.search-pannel
 www.bilibili.com##.header-search-suggest.suggest-wrap
