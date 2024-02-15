@@ -64,3 +64,10 @@ exercism.org##.hidden.md\:block.announcement-bar
 ! Remove like, dislike and feedback in search resaults.
 www.google.com##.iCQO5d.niO4u
 www.google.com##.epKdHc
+
+
+
+! --------------------------------------------------- wakatime.com ---------------------------------------------------
+
+! Remove the timezone update Update notification.
+wakatime.com##.p-bottom-xs-20.p-top-xs-20.row
