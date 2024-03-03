@@ -69,5 +69,9 @@ www.google.com##.epKdHc
 
 ! --------------------------------------------------- wakatime.com ---------------------------------------------------
 
-! Remove the timezone update Update notification.
+! Remove the timezone update notification.
 wakatime.com##.p-bottom-xs-20.p-top-xs-20.row
+
+! Remove the upgrade badge and button.
+wakatime.com##.navbar-badge
+wakatime.com##.sidebar-upgrade-item
