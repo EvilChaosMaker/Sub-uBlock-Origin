@@ -77,3 +77,10 @@ wakatime.com##.p-bottom-xs-20.p-top-xs-20.row
 ! Remove the upgrade badge and button.
 wakatime.com##.navbar-badge
 wakatime.com##.sidebar-upgrade-item
+
+
+
+! --------------------------------------------------- riotgames.com --------------------------------------------------
+
+! Remove article vote button.
+support-leagueoflegends.riotgames.com##.article-body.js-vote
