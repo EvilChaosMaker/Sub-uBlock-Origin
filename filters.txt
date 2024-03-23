@@ -64,6 +64,8 @@ exercism.org##.hidden.md\:block.announcement-bar
 ! Remove like, dislike and feedback in search resaults.
 www.google.com##.iCQO5d.niO4u
 www.google.com##.epKdHc
+www.google.com.hk##.iCQO5d.niO4u
+www.google.com.hk##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 
 
 
