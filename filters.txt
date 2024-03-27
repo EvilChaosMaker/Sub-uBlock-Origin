@@ -6,8 +6,8 @@
 ! -------------------------------------------------- leetcode.com --------------------------------------------------
 
 ! Disable redirections and remove the visual cues.
-||leetcode.cn/api/is_china_ip/*$xhr,domain=leetcode.com
 leetcode.com##aside#region_switcher
+||leetcode.cn/api/is_china_ip/*$xhr,domain=leetcode.com
 ||assets.leetcode.cn/lccn-resources/cn.js$script
 ||assets.leetcode.cn/lccn-resources/profile.svg$image,domain=leetcode.com
 
